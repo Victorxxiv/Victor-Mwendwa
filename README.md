@@ -3,7 +3,7 @@ My Portfolio
 <h1 align="center">Hi, I'm Victor Mwendwa 👋</h1>
 
 <p align="center">
-    <strong>Backend Software Engineer | ALX Software Engineering Graduate</strong>
+    <strong>Backend Software Engineer</strong>
 </p>
 
 <p align="center">
@@ -22,9 +22,7 @@ My Portfolio
 
 
 <p align="center">
-    🔥 I’m an ALX SE Certified Software Engineer  
-    <br>  
-    🎓 I successfully completed the rigorous ALX Software Engineering Program, specializing in Backend Development.
+    🔥 I’m an ALX SE Certified Software Engineer 🎓
 </p>  
 <img src="https://github.com/Victorxxiv/Victor-Mwendwa/raw/main/My_Certificates/Certificate-victor-mwendwa.png" alt="ALX SE Certificate" width="800" height="auto"/>
 ______________________________________________________________________
