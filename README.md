@@ -1,5 +1,5 @@
-# Victor-Mwendwa
-My Portfolio
+# Victor Mwendwa
+
 <h1 align="center">Hi, I'm Victor Mwendwa 👋</h1>
 
 <p align="center">
@@ -92,6 +92,9 @@ Feel free to reach out for collaboration, job opportunities, or to chat about ba
     </a>
     <a href="https://github.com/Victorxxiv" target="_blank">
         <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub">
+    </a>
+    <a href="https://x.com/Xxiv_Victor" target="_blank">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" alt="Twitter">
     </a>
 </p>
 
