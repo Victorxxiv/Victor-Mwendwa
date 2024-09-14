@@ -3,7 +3,7 @@ My Portfolio
 <h1 align="center">Hi, I'm Victor Mwendwa 👋</h1>
 
 <p align="center">
-    <strong>Backend Software Engineer</strong>
+    <strong>Back-End Software Engineer</strong>
 </p>
 
 <p align="center">
@@ -22,9 +22,10 @@ My Portfolio
 
 
 <p align="center">
-    🔥 I’m an ALX SE Certified Software Engineer 🎓
+    🔥 I’m an African Leadership Experience Certified Software Engineer 🎓
 </p>  
 <img src="https://github.com/Victorxxiv/Victor-Mwendwa/raw/main/My_Certificates/Certificate-victor-mwendwa.png" alt="ALX SE Certificate" width="800" height="auto"/>
+
 ______________________________________________________________________
 
 ### About Me
@@ -39,10 +40,22 @@ ______________________________________________________________________
 
 ### Skills & Technologies
 
-- Languages: Python, JavaScript
-- Frameworks: Flask, Django, Node.js
-- Databases: PostgreSQL, SQLAlchemy
-- Tools & Platforms: Git, GitHub, Redis, REST APIs
+<p align="center">
+    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Git-181717?logo=git&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-REST%20APIs-0088CC?logo=api&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square"/>
+    <img src="https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square"/>
+</p>
 
 ______________________________________________________________________
 
