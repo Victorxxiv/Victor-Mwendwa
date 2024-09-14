@@ -16,6 +16,9 @@ My Portfolio
     <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat-square"/>
 </p>
 
+🔥 I’m an ALX SE Certified Software Engineer
+🎓 I successfully completed the rigorous ALX Software Engineering Program, specializing in Backend Development.  
+📄 [View my ALX Certificate here](https://drive.google.com/file/d/1U3mODA54mOqwVPEHQAk8L19OI2Oj52XF/view?usp=sharing)](#)
 ______________________________________________________________________
 
 ### About Me
